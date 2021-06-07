@@ -143,4 +143,7 @@ private: // this stuff is private
 
 ## Constructors
 
+A constructor is a special kind of method that lets you decide how the objects of a class get created. It has the same name as the class and no return type. Constructors really shine when you want to instantiate an object with specific attributes.
+
+
 
